@@ -3,7 +3,7 @@ Project Overview Built an interactive, multi-panel sales analytics dashboard in 
 # Online Sales Analytics Dashboard – Excel
 
 ## Project Overview
-Built an interactive, multi-panel sales analytics dashboard in Excel using Power Pivot, data modeling, PivotTables, PivotCharts, and slicers to analyze customer behavior, product performance, and sales trends across multiple cities.
+Built an interactive, multi-panel sales analytics dashboard in Excel using Power Pivot, data modeling, PivotTables, PivotCharts, and slicers to help stakerholder to analyze customer behavior, product performance, and sales trends across multiple cities.
 
 ## Tools & Techniques
 - Microsoft Excel (PivotTables, PivotCharts, Slicers, Conditional Formatting)
