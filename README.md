@@ -11,6 +11,8 @@ Built an interactive, multi-panel sales analytics dashboard in Excel using Power
 - **Data Modeling** — established relationships across multiple tables (Customer, Order, Payment, Product) to enable cross-table analysis
 - KPI cards for at-a-glance business metrics
 
+  DASHBOARD LINK - https://github.com/sumitprakash579/Online-Sales-Analytics-Dashboard-Excel/blob/main/Online-Sales-Analytics-Dashboard-Excel.png
+
 ## Key Metrics Tracked
 | Metric | Value |
 |---|---|
