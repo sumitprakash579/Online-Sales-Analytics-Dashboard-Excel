@@ -10,7 +10,7 @@ Built an interactive, multi-panel sales analytics dashboard in Excel using Power
 - **Power Pivot** for building the data model and handling large-scale relational data
 - **Data Modeling** — established relationships across multiple tables (Customer, Order, Payment, Product) to enable cross-table analysis
 - KPI cards for at-a-glance business metrics
-- #Used OpenAI to ask stakeholder-type questions, create summaries, help with Excel,DAX formulas, and save time while creating Excel dashboards.#
+- Used OpenAI to ask stakeholder-type questions, create summaries, help with Excel,DAX formulas, and save time while creating Excel dashboards.
 
 
   DASHBOARD LINK - https://github.com/sumitprakash579/Online-Sales-Analytics-Dashboard-Excel/blob/main/Online-Sales-Analytics-Dashboard-Excel.png
